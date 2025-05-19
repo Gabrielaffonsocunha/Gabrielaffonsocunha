@@ -1,16 +1,16 @@
-<h1 align="center">Sobre mim</h1>
+<h1 align="left">Sobre mim 🧑🏻‍💻</h1>
 
 ###
 
-<p align="center">- Estudante de Análise e Desenvolvimento de Sistemas pela Unigranrio Afya.<br>- Formado em Gestão de RH com Pós em Psicologia Organizacional.<br>- Apaixonado por Tecnologia e Programação.</p>
+<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas pela Unigranrio Afya.<br>- Formado em Gestão de RH com Pós em Psicologia Organizacional.<br>- Apaixonado por Tecnologia e Programação.</p>
 
 ###
 
-<h1 align="center">Tecnologias</h1>
+<h2 align="left">Tecnologias 🌐</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -24,14 +24,34 @@
 
 ###
 
-<h1 align="center">Status</h1>
+<h2 align="left">Redes Sociais 📱</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/gabrielaffonso1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/affonsx/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/affonsx" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Status 📈</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielaffonsocunha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielaffonsocunha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="147" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielaffonsocunha&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
 
 ###
 <!--
