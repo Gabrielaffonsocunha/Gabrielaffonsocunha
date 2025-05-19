@@ -1,4 +1,30 @@
-<h2 align="center">Stats</h2>
+<h1 align="center">Sobre mim</h1>
+
+###
+
+<p align="center">- Estudante de Análise e Desenvolvimento de Sistemas pela Unigranrio Afya.<br>- Formado em Gestão de RH com Pós em Psicologia Organizacional.<br>- Apaixonado por Tecnologia e Programação.</p>
+
+###
+
+<h1 align="center">Tecnologias</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+</div>
+
+###
+
+<h1 align="center">Status</h1>
 
 ###
 
@@ -8,7 +34,6 @@
 </div>
 
 ###
-
 <!--
 **Gabrielaffonsocunha/Gabrielaffonsocunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
