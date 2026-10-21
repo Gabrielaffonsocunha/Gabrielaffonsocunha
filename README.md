@@ -1,9 +1,10 @@
 # Gabriel Affonso
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Infraestrutura e Suporte de TI**
+**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento de Software | IA aplicada**
 
-Profissional de TI em formação, com experiência prática em suporte técnico e infraestrutura. Atuo com atendimento de Service Desk, administração de usuários e acessos, ambientes Windows e Microsoft 365, monitoramento e inventário de ativos. Também desenvolvo projetos web para aplicar meus estudos em tecnologia.
+Estou direcionando minha carreira para o desenvolvimento de software e a inteligência artificial aplicada. Tenho experiência em TI com suporte e infraestrutura, o que me ajuda a entender problemas reais e pensar em soluções úteis para as pessoas.
 
+Atualmente, desenvolvo projetos web e estudo programação, APIs, bancos de dados, automação e formas de aplicar IA em soluções digitais. Neste perfil, compartilho projetos pessoais e acadêmicos e minha evolução como desenvolvedor.
 ## Competências e ferramentas
 
 - **Infraestrutura e suporte:** Windows, Microsoft 365, Active Directory, GPO, Zabbix, GLPI/OCS, Veeam e VMware.
