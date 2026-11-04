@@ -1,30 +1,31 @@
 # Gabriel Affonso
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento de Software | IA aplicada**
+**Estudante de Análise e Desenvolvimento de Sistemas | Infraestrutura de TI | Desenvolvimento e IA aplicada**
 
-Estou direcionando minha carreira para o desenvolvimento de software e a inteligência artificial aplicada. Tenho experiência em TI com suporte e infraestrutura, o que me ajuda a entender problemas reais e pensar em soluções úteis para as pessoas.
+Trabalho com suporte e infraestrutura de TI e estudo desenvolvimento de software e inteligência artificial aplicada. Minha experiência em operações ajuda a transformar problemas técnicos do dia a dia em projetos práticos.
 
-Atualmente, desenvolvo projetos web e estudo programação, APIs, bancos de dados, automação e formas de aplicar IA em soluções digitais. Neste perfil, compartilho projetos pessoais e acadêmicos e minha evolução como desenvolvedor.
+## Projetos em destaque
 
-## Linguagens e tecnologias
+- [**Vigia Infra**](https://github.com/Gabrielaffonsocunha/vigia-infra) — laboratório de observabilidade com Prometheus, Grafana, Blackbox Exporter, Node Exporter, Docker Compose, alertas e CI.
+- [**Gestão de Chamados de TI**](https://github.com/Gabrielaffonsocunha/gestao-chamados-java) — API Java com Spring Boot, PostgreSQL, Docker Compose, regras de prioridade e SLA, testes e CI.
+- [**AI Builder Portfolio**](https://github.com/Gabrielaffonsocunha/ai-builder-portfolio) — protótipos com FastAPI e modelos de linguagem para triagem de chamados e organização de reuniões.
+- [**FAIXAFLOW**](https://github.com/Gabrielaffonsocunha/faixaflow) — protótipo web para gestão de academias e equipes de artes marciais, com painéis para gestores e professores.
+
+## Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,mysql,git,github,docker,windows" alt="HTML, CSS, JavaScript, TypeScript, Java, Python, MySQL, Git, GitHub, Docker e Windows" />
 </p>
 
-## Competências e ferramentas
+## Experiência e ferramentas
 
 - **Infraestrutura e suporte:** Windows, Microsoft 365, Active Directory, GPO, Zabbix, GLPI/OCS, Veeam e VMware.
-- **Desenvolvimento web:** HTML, CSS, JavaScript e TypeScript.
-- **Formação complementar:** Gestão de Recursos Humanos e pós-graduação em Psicologia Organizacional.
-
-## Projeto em destaque
-
-- [**FAIXAFLOW**](https://github.com/Gabrielaffonsocunha/faixaflow) — protótipo web para gestão de academias e equipes de artes marciais, desenvolvido com HTML, CSS e JavaScript. Demonstra painéis para gestores e professores; esta versão é visual e não possui backend ou persistência de dados.
+- **Desenvolvimento:** Java, Python, HTML, CSS, JavaScript, TypeScript, APIs REST, PostgreSQL e MySQL.
+- **Práticas:** Docker Compose, testes automatizados, GitHub Actions e documentação técnica.
 
 ## Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Unigranrio Afya (em andamento)
+- **Análise e Desenvolvimento de Sistemas** — Unigranrio Afya
 - **Gestão de Recursos Humanos** — formado
 - **Pós-graduação em Psicologia Organizacional**
 
