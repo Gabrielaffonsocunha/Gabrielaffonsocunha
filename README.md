@@ -6,6 +6,7 @@ Trabalho com suporte e infraestrutura de TI e estudo desenvolvimento de software
 
 ## Projetos em destaque
 
+- [**OpsBridge**](https://github.com/Gabrielaffonsocunha/opsbridge) — laboratório que recebe alertas, deduplica incidentes e registra histórico com FastAPI, SQLite, Docker e CI.
 - [**Vigia Infra**](https://github.com/Gabrielaffonsocunha/vigia-infra) — laboratório de observabilidade com Prometheus, Grafana, Blackbox Exporter, Node Exporter, Docker Compose, alertas e CI.
 - [**Gestão de Chamados de TI**](https://github.com/Gabrielaffonsocunha/gestao-chamados-java) — API Java com Spring Boot, PostgreSQL, Docker Compose, regras de prioridade e SLA, testes e CI.
 - [**AI Builder Portfolio**](https://github.com/Gabrielaffonsocunha/ai-builder-portfolio) — protótipos com FastAPI e modelos de linguagem para triagem de chamados e organização de reuniões.
