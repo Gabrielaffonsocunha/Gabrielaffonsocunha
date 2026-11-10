@@ -26,9 +26,8 @@ Trabalho com suporte e infraestrutura de TI e estudo desenvolvimento de software
 
 ## Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Unigranrio Afya
+- **Análise e Desenvolvimento de Sistemas** — Unigranrio Afya (cursando; conclusão prevista para fevereiro de 2027)
 - **Gestão de Recursos Humanos** — formado
-- **Pós-graduação em Psicologia Organizacional**
 
 ## Contato
 
